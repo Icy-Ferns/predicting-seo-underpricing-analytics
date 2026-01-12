@@ -1,0 +1,60 @@
+# Data files (confidential)
+*.parquet
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+data/
+raw_data/
+processed_data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Model artifacts
+*.pkl
+*.pickle
+*.joblib
+*.h5
+models/
+checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# API keys and credentials
+credentials.json
+config.ini
+secrets.yaml
