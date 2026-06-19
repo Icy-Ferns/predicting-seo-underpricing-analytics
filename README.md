@@ -1,7 +1,6 @@
 # Predicting SEO Underpricing for Trading Strategy Optimization
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Machine Learning](https://img.shields.io/badge/ML-LightGBM%20%7C%20XGBoost-orange.svg)]()
 [![Domain](https://img.shields.io/badge/Domain-Quantitative%20Finance-brightgreen.svg)]()
 
